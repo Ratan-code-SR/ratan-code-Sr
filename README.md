@@ -1,3 +1,6 @@
+![cover photo!](https://raw.githubusercontent.com/kazirauf/kazirauf/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png)
+
+
 <h1 align="center">Hi 👋, I'm Ratan</h1>
 <h3 align="center">I am a frontend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratan-code-sr&label=Profile%20views&color=0e75b6&style=flat" alt="ratan-code-sr" /> </p>
