@@ -10,6 +10,17 @@
 - 🛠️ Skills **HTML, CSS, JavaScript React, Bootstrap, Firebase, MongoDB, Express JS**
 - 📫 How to reach me **ratanchakma68@gmail.com**
 
+<h3 align="left">👨‍🏫 About Me</h3>
+<p>I am Shakya Ratan Chakma, a front-end web developer. I have more than one year of experience learning web development. I have completed two courses on web design and web development.
+
+I am passionate about creating attractive and user-friendly web interfaces. My journey started with expertise in frontend technologies like HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, Javascript, and React.js.
+
+Despite my non-programming academic background, I pursued my passion for coding through courses and open-source resources. This self-driven approach has enabled me to build a strong foundation in front-end development. I am expanding my knowledge to include backend technologies like Node.js, Express.js, and MongoDB. Outside of my current role in a different sector within a private company, I am dedicated to continuous learning and enjoy challenging myself with creative and technical projects.
+
+I aim to design websites and applications that exceed user expectations and provide delightful experiences. I look forward to connecting with professionals in the technology community and contributing my expertise to innovative projects.
+
+Let's connect on Email: ratanchakma68@gmail.com
+You can also contact me via WhatsApp:+8801575410902</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ratan-chakma-2b5672292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ratan-chakma-2b5672292" height="30" width="40" /></a>
