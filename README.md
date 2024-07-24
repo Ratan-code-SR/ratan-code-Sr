@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning on **Next js**
+- 🔭 I’m currently learning on **Typescript and Next js**
 - 🛠️ Skills **HTML, CSS, Tailwind, JavaScript, React, Firebase, Node, MongoDB, Express JS**
 - 📫 How to reach me **ratanchakma68@gmail.com**
 
