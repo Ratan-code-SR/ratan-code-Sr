@@ -3,7 +3,7 @@
 <p align="left">A passionate Junior front-end Web Developer from BD</p>
 
 <h3 align="left">👨‍🏫 About Me</h3>
-<p>I am Shakya Ratan Chakma, a front-end web developer with over 6 months of experience in front-end technologies and basic backend technologies like Node.js, Express.js, and MongoDB. I am also currently learning Next.js. Despite not having a formal programming background, I learned coding through courses and open-source resources. I am eager to work in a private company and am dedicated to creating websites and applications that users love.</p>
+<p>I am Shakya Ratan Chakma, a web developer skilled in front-end technologies and basic back-end technologies like Node.js, Express.js, and MongoDB. . I am also currently learning Next.js. Despite not having a formal programming background, I learned coding through courses and open-source resources. I am eager to work in a private company and am dedicated to creating websites and applications that users love.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
