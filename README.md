@@ -1,4 +1,4 @@
-![Github Banner](https://i.ibb.co/[image-path].jpg)
+![Github Banner](https://i.ibb.co.com/2qmRP25/1.png)
 <h1 align="left">👋 Hello, I'm Shakyo Ratan Chakma </h1>
 <p align="left">A passionate Junior front-end Web Developer from BD</p>
 
