@@ -1,14 +1,14 @@
 ![Github Banner](https://i.ibb.co.com/2qmRP25/1.png)
 <h1 align="left">👋 Hello, I'm Shakyo Ratan Chakma </h1>
-<p align="left">A passionate Junior front-end Web Developer from BD</p>
+<p align="left">A passionate MERN Stack Web Developer from BD</p>
 
 <h3 align="left">👨‍🏫 About Me</h3>
-<p>I am Shakya Ratan Chakma, a web developer skilled in front-end technologies and basic back-end technologies like Node.js, Express.js, and MongoDB. . I am also currently learning Next.js. Despite not having a formal programming background, I learned coding through courses and open-source resources. I am eager to work in a private company and am dedicated to creating websites and applications that users love.</p>
+<p>I am Shakya Ratan Chakma, a MERN stack developer skilled in front-end technologies like React.js and back-end technologies including Node.js, Express.js, and MongoDB. I am also currently enhancing my expertise by learning Next.js. Despite not having a formal programming background, I have built my skills through dedicated learning from courses and open-source resources. I am passionate about creating user-friendly websites and applications that deliver value, and I am eager to bring my skills to a private company where I can contribute effectively and grow further.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning on **React typescript**
-- 🛠️ Skills **HTML, CSS, Tailwind, JavaScript, React, Typescript, Firebase, Node, MongoDB, Express JS**
+- 🔭 I’m currently learning on **Redux Toolkit**
+- 🛠️ Skills **HTML, CSS, Tailwind, JavaScript, React, Typescript, Firebase, Redux, Node, MongoDB, Mongoose, Express JS**
 - 📫 How to reach me **ratanchakma68@gmail.com**
 
 <h3 align="left">☕ Connect with me:</h3>
