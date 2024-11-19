@@ -3,7 +3,8 @@
 <p align="left">A passionate MERN Stack Web Developer from BD</p>
 
 <h3 align="left">👨‍🏫 About Me</h3>
-<p>I am Shakya Ratan Chakma, a MERN stack developer skilled in front-end technologies like React.js and back-end technologies including Node.js, Express.js, and MongoDB. I am also currently enhancing my expertise by learning Next.js. Despite not having a formal programming background, I have built my skills through dedicated learning from courses and open-source resources. I am passionate about creating user-friendly websites and applications that deliver value, and I am eager to bring my skills to a private company where I can contribute effectively and grow further.</p>
+<p>I am Shakya Ratan Chakma, a MERN stack developer skilled in front-end technologies like React.js and back-end technologies including Node.js, Express.js, and MongoDB.
+Despite not having a formal programming background, I have built my skills through dedicated learning from courses and open-source resources. I am passionate about creating user-friendly websites and applications that deliver value. I am eager to bring my skills to a private company where I can contribute effectively and grow further.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
